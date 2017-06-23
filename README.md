@@ -50,7 +50,7 @@
 
 * ProxyGetter:
 
-　　代理获取的相关代码，目前抓取了[快代理](http://www.kuaidaili.com)、[代理66](http://www.66ip.cn/)、[有代理](http:[西刺代理](http://api.xicidaili.com)
+　　代理获取的相关代码，目前抓取了[快代理](http://www.kuaidaili.com)、[代理66](http://www.66ip.cn/)、[西刺代理](http://www.xicidaili.com)
 
 * Schedule:
 
