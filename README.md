@@ -42,7 +42,7 @@
 
 * DB:
 
-　　数据库相关代码，目前数据库是采用SSDB。代码用工厂模式实现，方便日后扩展其他类型数据库；
+　　数据库相关代码
 
 * Manager:
 
@@ -50,11 +50,11 @@
 
 * ProxyGetter:
 
-　　代理获取的相关代码，目前抓取了[快代理](http://www.kuaidaili.com)、[代理66](http://www.66ip.cn/)、[有代理](http://www.youdaili.net/Daili/http/)、[西刺代理](http://api.xicidaili.com/free2016.txt)、[guobanjia](http://www.goubanjia.com/free/gngn/index.shtml)这个五个网站的免费代理，经测试这个5个网站每天更新的可用代理只有六七十个，当然也支持自己扩展代理接口；
+　　代理获取的相关代码，目前抓取了[快代理](http://www.kuaidaili.com)、[代理66](http://www.66ip.cn/)、[有代理](http:[西刺代理](http://api.xicidaili.com)
 
 * Schedule:
 
-　　定时任务相关代码，现在只是实现定时去刷新代码，并验证可用代理，采用多进程方式；
+　　定时任务相关代码，现在只是实现定时去刷新代码，并验证可用代理
 
 
 
